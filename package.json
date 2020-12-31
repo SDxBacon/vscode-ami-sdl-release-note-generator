@@ -2,7 +2,8 @@
   "name": "ami-sdl-release-note-generator",
   "displayName": "AMI System Description Language release note generator",
   "description": "r",
-  "version": "0.0.1",
+  "publisher": "SDxBacon",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.52.0"
   },
